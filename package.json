@@ -1,0 +1,17 @@
+{
+  "name": "cre-wallet-recovery-workflow",
+  "version": "1.0.0",
+  "description": "On-chain wallet recovery automation powered by Chainlink Functions and CRE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "web3",
+    "chainlink",
+    "wallet-recovery",
+    "solidity"
+  ],
+  "author": "Eduar Flow",
+  "license": "MIT"
+}
